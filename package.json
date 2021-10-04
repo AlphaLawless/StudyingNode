@@ -1,5 +1,5 @@
 {
-  "name": "http-studying",
+  "name": "node-http-studying",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,9 +8,15 @@
     "start": "nodemon server.js",
     "api": "nodemon api/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "api",
+    "server",
+    "urls",
+    "study"
+  ],
+  "author": "Alpha Vylly",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.13"
   }
